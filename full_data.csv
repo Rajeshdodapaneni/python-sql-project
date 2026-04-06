@@ -1,0 +1,5 @@
+order_id,product,category,quantity,price,region
+1,Laptop,Electronics,3,55000.0,south
+2,Mobile,Electronics,5,20000.0,North
+3,Shirt,Clothing,10,1000.0,west
+4,Watches,Electronics,5,2000.0,East
